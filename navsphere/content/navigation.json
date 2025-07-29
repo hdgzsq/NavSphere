@@ -816,7 +816,16 @@
       "icon": "Music",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1753793555093_z03rcfuaq",
+          "title": "myfreemp3",
+          "href": "https://www.myfreemp3.com.cn/",
+          "description": "在线音乐免费下载官网,歌曲免费下载,mp3免费下载音乐免费下载",
+          "icon": "https://favicon.im/www.myfreemp3.com.cn?t=1753793444742",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
