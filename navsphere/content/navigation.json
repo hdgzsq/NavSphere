@@ -824,6 +824,14 @@
           "description": "在线音乐免费下载官网,歌曲免费下载,mp3免费下载音乐免费下载",
           "icon": "https://favicon.im/www.myfreemp3.com.cn?t=1753793444742",
           "enabled": true
+        },
+        {
+          "id": "site_1753794795017_mgbno84bn",
+          "title": "LibreTV",
+          "href": "https://libretv.liumingye.cn/",
+          "description": "自由观影，畅享精彩",
+          "icon": "https://favicon.im/libretv.liumingye.cn?t=1753794744390",
+          "enabled": true
         }
       ],
       "subCategories": []
