@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1753792049455",
+      "title": "娱乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
